@@ -13,7 +13,7 @@ An interactive, high-fidelity digital logic gate educational suite. Designed for
    - **Comprehensive Deep-Dive Inspector**: Click on any gate (e.g. from the Basic Gates category: AND, OR, NOT) to inspect full specifications, Boolean identities, switching logic rules, and truth tables.
    - **Formulas & Axioms**: Clear Boolean expressions, logic rules, and algebraic identities.
    - **Dark & Light Mode**: Seamless theme switching with a toggle button on the top right.
-   - **GitHub Repository Link**: Direct bracketed shortcut `[ 🐙 GitHub ]` in the header and Quiz Arena.
+   - **GitHub Repository Link**: Direct bracketed shortcut `[ 🐙 GitHub ]` in the Quiz Arena.
 
 2. **🎯 Quiz & Mastery Arena**
    - Test your logic gate knowledge with randomized challenges:
