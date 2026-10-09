@@ -1,5 +1,11 @@
 # ⚡ LOGIC LAB - Complete Interactive Digital Logic Gate Suite
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Launch_Website-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajatpd6.github.io/Digitallogicgate_project/)
+[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://rajatpd6.github.io/Digitallogicgate_project/)
+
+> ### 🚀 **Live Website (1-Click Launch)**: **[https://rajatpd6.github.io/Digitallogicgate_project/](https://rajatpd6.github.io/Digitallogicgate_project/)**
+> Click the link above to open and experience the Digital Logic Gate Suite directly in your browser without installing anything!
+
 An interactive, high-fidelity digital logic gate educational suite. Designed for students, electrical engineers, and computer science enthusiasts, featuring **all 11 pure digital logic gates** with full names, dynamic truth tables, Boolean expressions, interactive real-time signal propagation, and standard ANSI schematics.
 
 ---
@@ -47,16 +53,18 @@ An interactive, high-fidelity digital logic gate educational suite. Designed for
 
 ## 🚀 How to Run the Project
 
-This is a **pure client-side web application** with zero dependencies. No npm or complex builds required!
+### Option A: 🌐 Open Live Website (Instant 1-Click Access)
+No setup, cloning, or installation required! Open directly in any web browser:
+👉 **[https://rajatpd6.github.io/Digitallogicgate_project/](https://rajatpd6.github.io/Digitallogicgate_project/)**
 
-### Option A: Open directly in your browser
+### Option B: Open locally in your browser
 Simply double-click [`index.html`](file:///C:/Users/rajat/.gemini/antigravity/scratch/logic-gates-simulator/index.html) or open it with your browser:
 - **Google Chrome**
 - **Microsoft Edge**
 - **Mozilla Firefox**
 - **Safari**
 
-### Option B: Run via Local Python Web Server
+### Option C: Run via Local Python Web Server
 Open a terminal in the project directory and run:
 ```bash
 python -m http.server 8080
